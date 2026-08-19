@@ -1,4 +1,4 @@
-NOTE: This is AI generated code. There is nothing really critical going on, but you might still want to take a look at the short script to make sure what's going on at least at a high level.
+**NOTE:** This is AI generated code. There is nothing really critical going on, but you might still want to take a look at the short script to make sure what's going on at least at a high level.
 It worked just fine on my Ubuntu 24.04 machine with Hyprland v0.39.1.
 
 # Omasnap Docker (distrobox) installer
