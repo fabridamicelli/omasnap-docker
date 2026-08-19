@@ -4,8 +4,8 @@ It worked just fine on my Ubuntu 24.04 machine with Hyprland v0.39.1.
 # Omasnap Docker (distrobox) installer
 
 This repository contains `install.sh`, a launcher installer for
-[omasnap](https://github.com/tobi/omasnap) that is **designed for Ubuntu and other
-Linux distributions that are not Arch Linux**.
+[omasnap](https://github.com/tobi/omasnap) but designed for Ubuntu and other
+Linux distributions that are not Arch Linux.
 
 Omasnap's dependencies are Arch-oriented (`hyprland`, `layer-shell-qt`, and other
 `pacman` packages), so this script never touches your distro's own package manager.
