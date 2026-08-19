@@ -8,6 +8,8 @@ Linux distributions that are not Arch Linux.
 
 The tool will run in a container and the command can be used with the same hyprland shortcut.
 
+![](./images/example.png)
+
 Omasnap's dependencies are Arch-oriented (`hyprland`, `layer-shell-qt`, and other
 `pacman` packages), so this script never touches your distro's own package manager.
 Instead it:
