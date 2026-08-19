@@ -20,7 +20,7 @@ On Ubuntu or any other non-Arch distro, you only need the three prerequisites be
 all Arch packages, build tools, and the omasnap binary itself are handled inside the
 container.
 
-## The three requisites
+## Requirements
 
 1. **A running Wayland + Hyprland session**
 
